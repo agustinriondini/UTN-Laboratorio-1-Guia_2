@@ -4,7 +4,7 @@
 using namespace std;
 
 //Consigna:
-//Hacer un programa para ingresar por teclado la fecha de nacimiento de una persona, ingresando día, mes y año como 3 datos individuales. Luego ingresar la fecha actual ingresando día, mes y año como 3 datos individuales. Calcular luego la edad en años de esa persona y listarlo por pantalla.
+//Hacer un programa para ingresar por teclado la fecha de nacimiento de una persona, ingresando dÃ­a, mes y aÃ±o como 3 datos individuales. Luego ingresar la fecha actual ingresando dÃ­a, mes y aÃ±o como 3 datos individuales. Calcular luego la edad en aÃ±os de esa persona y listarlo por pantalla.
 
 
 
@@ -16,8 +16,8 @@ int main(){
 
     //Alert:
 
-    string alert = "===================================== LABORATORIO 1 GUIA 2 =====================================", taskbanner = "===================================== EJERCICIO N12 ============================================";
-    string task = "Hacer un programa para ingresar por teclado la fecha de nacimiento de una persona, ingresando día, mes y año como 3 datos individuales. Luego ingresar la fecha actual ingresando día, mes y año como 3 datos individuales. Calcular luego la edad en años de esa persona y listarlo por pantalla.";
+    string alert = "===================================== LABORATORIO 1 GUIA 2 =====================================", taskbanner = "===================================== EJERCICIO N13 ============================================";
+    string task = "Hacer un programa para ingresar por teclado la fecha de nacimiento de una persona, ingresando dÃ­a, mes y aÃ±o como 3 datos individuales. Luego ingresar la fecha actual ingresando dÃ­a, mes y aÃ±o como 3 datos individuales. Calcular luego la edad en aÃ±os de esa persona y listarlo por pantalla.";
 
     //Variables:
     //Nacimiento:
@@ -55,9 +55,9 @@ int main(){
     AAAA=2023;
     var = 0001;
 
-    //Cumplidos:
+   
     edad = AAAA - aaaa;
-    //No cumplidos:
+    
     if (MM >= mm || MM >= mm && dd <= DD){
         edad = AAAA - aaaa;
     }else{
