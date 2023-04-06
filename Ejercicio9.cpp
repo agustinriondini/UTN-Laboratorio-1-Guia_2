@@ -4,7 +4,7 @@
 using namespace std;
 
 //Consigna:
-//Hacer un programa para ingresar tres números y listar el máximo de ellos.
+//Hacer un programa para ingresar tres nÃºmeros y listar el mÃ¡ximo de ellos.
 
 int main(){
 
@@ -15,7 +15,7 @@ int main(){
     //Alert:
 
     string alert = "===================================== LABORATORIO 1 GUIA 2 =====================================", taskbanner = "===================================== EJERCICIO N9  ============================================";
-    string task = "Hacer un programa para ingresar tres números y listar el máximo de ellos.";
+    string task = "Hacer un programa para ingresar tres nÃºmeros y listar el mÃ¡ximo de ellos.";
 
     //Variables:
 
@@ -37,7 +37,7 @@ int main(){
 
     cout << "============================ DETECTANDO EL NUMERO MAYOR ============================" << endl;
     cout << endl;
-    cout << "Ingrese 3 numeros, que representan los lados de un triangulo: " << endl;
+    cout << "Ingrese 3 numeros: " << endl;
     cout << endl;
     cout << "N1 ----->", cin >> num1;
     cout << endl;
